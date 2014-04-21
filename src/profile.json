@@ -1,0 +1,8 @@
+{
+    "isolate": {
+        "args": {
+            "spool": "/var/spool/cocaine"
+        },
+        "type": "process"
+    }
+}
